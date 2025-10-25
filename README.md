@@ -1,2 +1,1 @@
-# QCRunner
-Standalone Quartz Composer Composition Viewer &amp; Screensaver Replacement for Mojave
+Finally... a 32/64 bit compatible Quartz Composer composition compatible screensaver for MacOS Mojave...
