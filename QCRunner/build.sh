@@ -2,6 +2,7 @@
 set -euo pipefail
 
 # QCRunner 32/64-bit build script (ARC on x86_64, non-ARC on i386)
+# EXAMPLE: ./build.sh --arch universal  --src main.m --comp "/Users/YOU/Documents/screensaver.qtz" --sdk-i386 "/Applications/Xcode_9.4.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk"
 
 # --- Defaults ---
 APP_NAME="QCRunner"
