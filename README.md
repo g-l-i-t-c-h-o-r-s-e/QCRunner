@@ -42,6 +42,11 @@ In interactive mode, any mouse movement/click/scroll quits the app.
 In interactive mode, auto-quit after the specified number of seconds.
   - Default: disabled.
 
+# Force 32bit or 64bit Architecture:
+32 Bit: `arch -i386 QCRunner.app/Contents/MacOS/QCRunner --comp stuff.qtz` <br>
+64 Bit: `arch -x86_64 QCRunner.app/Contents/MacOS/QCRunner --comp stuff.qtz`
+
+
 # Important note:
 Before running the app, Please go to <br> 
 `System Preferences > Security & Privacy > Accesibility >` ... And then add QCRunner here. <br>
