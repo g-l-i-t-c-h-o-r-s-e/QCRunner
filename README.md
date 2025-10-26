@@ -1,5 +1,5 @@
 # Finally... 
-a 32/64 bit compatible Quartz Composer composition compatible screensaver for MacOS Mojave! <br>
+An 32/64 bit compatible Quartz Composer composition compatible screensaver for MacOS Mojave! <br>
 Build script is available [here](https://github.com/g-l-i-t-c-h-o-r-s-e/QCRunner/blob/main/QCRunner/build.sh) if you're not familiar with XCode
 
 # But thats not all!
