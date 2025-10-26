@@ -44,7 +44,10 @@ In interactive mode, auto-quit after the specified number of seconds.
 
 # Force 32bit or 64bit Architecture:
 32 Bit: `arch -i386 QCRunner.app/Contents/MacOS/QCRunner --comp stuff.qtz` <br>
-64 Bit: `arch -x86_64 QCRunner.app/Contents/MacOS/QCRunner --comp stuff.qtz`
+64 Bit: `arch -x86_64 QCRunner.app/Contents/MacOS/QCRunner --comp stuff.qtz`<br>
+
+<ins>You can also create a 32bit ONLY copy of the app via:</ins><br> 
+`ditto --arch i386 "/Applications/QCRunner.app" "/Applications/QCRunner (32bit).app" `
 
 
 # Important note:
