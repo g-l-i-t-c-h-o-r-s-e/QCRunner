@@ -9,6 +9,7 @@ With this it doubles as a viewing application for your 32bit and 64bit compositi
 Shame this wasn't a option by default, but here we are.
 
 # Command-line Flags:
+Note you can put these flags in the `QCRunner.app/Contents/MacOS/QCRunner.flags` file for default settings.
 
 `--debug` <br>
 Enables verbose logging to console. 
