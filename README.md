@@ -3,7 +3,7 @@ An 32/64 bit compatible Quartz Composer composition compatible screensaver for M
 Build script is available [here](https://github.com/g-l-i-t-c-h-o-r-s-e/QCRunner/blob/main/QCRunner/build.sh) if you're not familiar with XCode
 
 # But thats not all!
-It also has an interactive mode by default, so you can do stuff with compositions at fullscreen with mouse and keyboard interaction! <br>
+It also has an interactive mode by default, <br> so you can do stuff with compositions at fullscreen with mouse and keyboard interaction! <br>
 So it doubles as a viewing application for your 32bit and 64bit compositions on Mojave 10.14.6 <3
 
 Shame this wasn't a option by default, but here we are.
