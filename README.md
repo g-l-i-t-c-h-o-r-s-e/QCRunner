@@ -46,3 +46,6 @@ Before running the app, Please go to <br>
 It needs this permission to be able to read mouse/keyboard input. <br>
 If you are using a quartz composition that uses camera or microphone input, <br> 
 and for some reason your system does not request permission, try using [this script](https://gist.github.com/g-l-i-t-c-h-o-r-s-e/fe1e3215cde369806c9fef50e3b15b30) <br> I made to manually force these permissions for any application.
+
+# To Run at Login
+Simply go to `System Preferences > Users & Gropus > Login Items > +` ... and add QCRunner
