@@ -10,7 +10,7 @@ Shame this wasn't a option by default, but here we are.
 
 # Command-line Flags:
 <ins>**Note: you can put these flags in the `QCRunner.app/Contents/MacOS/QCRunner.flags` file for default settings.**</ins><br>
-<ins>Anytime you edit this file you will probably have to re-toggle QCRunner in the Accesibility settings window that pops up.</ins>
+<ins>Anytime you edit this file you'll probably have to re-toggle QCRunner in the Accesibility settings window that pops up.</ins>
 
 `--debug` <br>
 Enables verbose logging to console. 
