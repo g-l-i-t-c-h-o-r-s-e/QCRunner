@@ -6,7 +6,7 @@ Build script is available [here](https://github.com/g-l-i-t-c-h-o-r-s-e/QCRunner
 It also has an interactive mode by default, <br> so you can do stuff with compositions at fullscreen with mouse and keyboard interaction! <br>
 With this it doubles as a viewing application for your 32bit and 64bit compositions on Mojave 10.14.6 <3
 
-Shame this wasn't a option by default, but here we are.
+Shame this wasn't a option all along, but here we are.
 
 # Command-line Flags:
 <ins>**Note: you can put these flags in the `QCRunner.app/Contents/MacOS/QCRunner.flags` file for default settings.**</ins><br>
